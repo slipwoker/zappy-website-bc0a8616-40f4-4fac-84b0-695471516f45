@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיג&#39;ט טויס איכותיים לילדים ומבוגרים שמחפשים הרגעה אמיתית. סטים מיוחדים, מוצרים מיניאטוריים ועיצוב מינימליסטי שתאהב. קנה עכשיו ותרגיש את ההבדל!
+
+### אודות
+https://example.com/about
+PopZone by Evyatar נולד מתוך אהבה אמיתית לפיג&#39;ט טויס ולעיצוב נקי ומרגיע. גלה את הערכים, החזון והתשוקה שהופכים כל מוצר שלנו לחוויה מיוחדת. הכר אותנו!
+
+### שאלות נפוצות
+https://example.com/faq
+יש שאלות על פיג&#39;ט טויס, משלוחים, סטים או החזרות? ריכזנו את כל מה שצריך לדעת במקום אחד כדי שהקנייה שלך תהיה קלה, בטוחה ומהנה. קרא עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, בקשה מיוחדת או סתם רוצה לשמוע עוד על הסטים שלנו? צוות PopZone by Evyatar כאן בשבילך. צור קשר עכשיו ונחזור אליך במהירות עם חיוך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - PopZone by Evyatar
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - PopZone by Evyatar
+
+### Category
+https://example.com/category/:slug
+מוצרים - PopZone by Evyatar
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
